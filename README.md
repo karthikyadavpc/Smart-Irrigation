@@ -108,7 +108,7 @@ Fill in with your own measurements. Describe how each was obtained in [`docs/tes
 |---|---|---|
 | Offset (at reference = 0) | [3150 mV ] | [Open Air, 25°C] |
 | Gain | [-25.0mV] | [Sandy Loam, 25°C, 3.3V Supply] |
-| Nonlinearity|  |[±3.5% of full scale] | [5 multi-point gravimetric points (0%–50% VWC)] |
+| Nonlinearity|  |[±3.5% of full scale] | |[5 multi-point gravimetric points (0%–50% VWC)] |
 | Repeatability  | [±4.2 mV std. deviation] | [N = 20, 10-second intervals] |
 | Comparator trip points (rising / falling) | [1900 mV / 2200 mV] | [Saturated threshold / Dry trigger] |
 
