@@ -99,4 +99,4 @@ python tests/run_tests.py
 
 The analog conditioner, GPIO allocation, controller, local dashboard and optional driver are reference design choices newly prepared for this package. A physical analog comparator, cloud backend, PCB fabrication, original prototype recovery and field testing are not implemented. The source report in the resume is not proof that these particular files were previously built or measured.
 
-Add your actual photographs, board revision, calibration results and contribution history. Review and understand the generated reference code before presenting it. See `LICENSE-NOTE.md` before selecting a license or adding team-owned material.
+
