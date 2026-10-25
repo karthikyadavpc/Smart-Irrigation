@@ -1,0 +1,11 @@
+SMART IRRIGATION SYSTEM - ESP32 SENSOR FRONT-END
+
+1. Read README.md, then docs/GETTING_STARTED.md.
+2. Firmware source: src/main.cpp and lib/IrrigationCore/.
+3. Wiring diagrams: images/ and hardware/WIRING.md.
+4. Technical report: reports/Smart_Irrigation_ESP32_Technical_Report.pdf.
+5. Dashboard preview: open web/dashboard.html in your browser (synthetic data).
+6. Calibrate your actual sensor before arming; no usable endpoints are assumed.
+7. Physical pump output is disabled in the default build. The LED shows requests.
+8. Real photographs and hardware measurements must be added from your prototype.
+9. Publishing steps: docs/GITHUB_UPLOAD.md.

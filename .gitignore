@@ -1,0 +1,6 @@
+.pio/
+build/
+.venv/
+__pycache__/
+include/local_config.h
+.DS_Store
